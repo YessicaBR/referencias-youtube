@@ -1,1 +1,14 @@
-
+{
+  "gel_silice": {
+    "nombre": "gel de sílice en gránulos con sobre desecante",
+    "color": "gránulos transparentes o incoloros con un matiz amarillo extremadamente pálido; el aspecto dorado puede deberse al fondo y a la iluminación",
+    "material": "gránulos sólidos de apariencia vítrea, lisos, brillantes y translúcidos; sobre blanco mate, flexible, opaco y ligeramente fibroso",
+    "forma": "unidades pequeñas de tamaño variable, redondeadas pero irregulares, algunas ovaladas, achatadas o semejantes a gotas solidificadas; no son esferas perfectamente uniformes",
+    "empaque": "sobre pequeño rectangular blanco y opaco, con bordes prensados y sellados e impresión negra",
+    "texto_visible": "DO NOT EAT\nDESICCANT\nSILICA\nGEL\nTHROW AWAY",
+    "escala": "gránulos de pocos milímetros y sobre aproximadamente del tamaño de la palma; estimación visual",
+    "contexto_tipico": "sobres desecantes en empaques de zapatos, medicamentos, productos electrónicos, alimentos secos y cajas de almacenamiento",
+    "errores_comunes": "no son canicas ni bolitas blandas de hidrogel; no son gotas líquidas; no son cristales angulares; no deben aparecer en colores intensos; el sobre no es transparente ni de plástico brillante",
+    "notas": "la característica visual principal es que los gránulos son transparentes, redondeados, irregulares y ligeramente aplanados"
+  }
+}
