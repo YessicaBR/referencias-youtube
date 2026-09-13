@@ -1,31 +1,14 @@
 {
-  "gel_silice": {
-    "nombre": "sobre desecante de gel de sílice con bolitas de sílice (referencia real del producto)",
-    "color": "sobre blanco opaco con impresión azul o negra según la variante; bolitas incoloras, transparentes o ligeramente blanquecinas, de apariencia vítrea",
-    "material": "sobre flexible, opaco, mate, de fibras no tejidas, ligeramente translúcido en zonas finas; bolitas sólidas de apariencia vítrea, lisas, brillantes y translúcidas",
-    "forma": "sobre rectangular (vertical u horizontal según el corte), bordes prensados y sellados, ligeramente abultado por el contenido interno; bolitas mayormente esféricas o casi esféricas, con variaciones naturales de tamaño",
-    "empaque": "sobre individual termosellado por sus cuatro lados, con marco perimetral ancho de textura cuadriculada prensada y zona central fibrosa o ligeramente abultada",
-    "texto_visible": "Variante 1 (impresión azul): SILICA GEL / DO NOT EAT / THROW AWAY / DESICCANT. Variante 2 (impresión negra): SILICA GEL / DO NOT EAT / KEEP OUT OF REACH OF CHILDREN",
-    "escala": "sobre pequeño de uso comercial, aproximadamente 3.9 cm de ancho por 5.1 cm de alto; bolitas de aproximadamente 2.5 a 4 mm de diámetro (medidas estimadas mediante referencia de regla en una de las fotos)",
-    "contexto_imagen": "puede mostrarse el sobre solo sobre superficie gris clara, o acompañado de bolitas sueltas, un clip metálico y una regla graduada como referencia de escala",
-    "angulo_y_encuadre": "válidos tanto vista cenital completamente superior (composición ordenada) como ángulo superior oblicuo cercano (con fondo suavemente desenfocado)",
-    "elementos_graficos": "en la variante de impresión negra puede incluir un pictograma circular de prohibición: silueta infantil con un objeto acercándose a la boca, atravesada por una franja diagonal",
-    "errores_comunes": "no hacer el sobre del tamaño de una bolsa grande; no representar las bolitas como canicas, hidrogel, gotas de agua, perlas o cristales angulares; no aumentar su diámetro desproporcionadamente; no mostrar el sobre abierto o derramándose; no usar plástico liso y brillante en vez de la envoltura fibrosa mate; no mezclar o alterar el color de impresión (azul/negro) sin motivo; no eliminar el pictograma de prohibición si se reproduce la variante que lo incluye",
-    "notas": "existen dos variantes válidas de impresión (azul con 'THROW AWAY / DESICCANT', o negra con pictograma y 'KEEP OUT OF REACH OF CHILDREN') — ambas representan el mismo producto real y pueden usarse indistintamente según la escena. El clip y la regla, cuando aparecen, son solo objetos comparativos de escala y no forman parte del producto."
-  },
-  "gel_silice_educativo": {
-    "nombre": "representación conceptual de la estructura porosa y la adsorción del gel de sílice",
-    "color": "esfera principal blanca, gris clara y semitransparente; cavidades interiores azul grisáceo; partículas moleculares azules y blancas; fondo azul marino",
-    "material": "representación digital de una estructura sólida translúcida y altamente porosa, con apariencia vítrea, esponjosa y microscópica",
-    "forma": "gran esfera cortada para mostrar una red interna de cavidades redondeadas, túneles y poros interconectados de tamaños variables",
-    "empaque": null,
-    "texto_visible": null,
-    "escala": "representación microscópica conceptual sin escala física verificable; la esfera y las moléculas están ampliadas con fines explicativos",
-    "contexto_imagen": "visualización educativa de moléculas azules y blancas suspendidas alrededor de una esfera porosa y adheridas a las superficies internas de sus cavidades",
-    "angulo_y_encuadre": "vista frontal cercana de una esfera central parcialmente seccionada; composición panorámica con profundidad de campo reducida",
-    "elementos_graficos": "moléculas estilizadas formadas por una esfera azul central y dos esferas blancas pequeñas, adheridas a las paredes internas de los poros",
-    "funcion_visual": "comunicar que la humedad puede adherirse a la gran superficie interna del material poroso mediante adsorción",
-    "errores_comunes": "no utilizar esta imagen como referencia de la apariencia exterior real de las bolitas de gel de sílice; no presentarla como fotografía microscópica científicamente exacta; no confundir adsorción superficial con absorción hacia un interior líquido; no afirmar que azul y blanco son los colores reales de las moléculas",
-    "notas": "úsese solo cuando el guion del día requiera explicar visualmente cómo funciona la adsorción — es una excepción de estilo, no la referencia base del producto"
+  "jamon_rebanado_empaque_abierto": {
+    "nombre": "jamón cocido en rebanadas (alimento cárnico preenvasado)",
+    "color": "Rebanadas rosa pálido uniforme; empaque transparente incoloro; etiqueta blanca con texto negro y línea roja de cierre.",
+    "material": "Rebanadas delgadas, suaves, húmedas y ligeramente brillantes dentro de una película plástica flexible, lisa, transparente y arrugada.",
+    "forma": "Paquete horizontal rectangular, más ancho que alto, con varias rebanadas grandes apiladas y una solapa superior abierta y curvada.",
+    "empaque": "Bolsa flexible transparente y resellable, abierta por arriba, con línea roja de cierre, condensación ligera y etiqueta blanca rectangular adherida al frente.",
+    "texto_visible": "FECHA DE CADUCIDAD: 22 SEP 2026\nUNA VEZ ABIERTO, CONSUMIR EN 3 DÍAS",
+    "escala": "Estimación visual: paquete de tamaño similar a un recipiente doméstico mediano para embutidos, aproximadamente del ancho de dos manos adultas.",
+    "contexto_tipico": "Refrigeradores domésticos, anaqueles refrigerados de supermercado, preparación de sándwiches, loncheras y cocinas.",
+    "errores_comunes": "No es carne cruda, tocino, salami ni mortadela con manchas; no usa charola de unicel ni envase rígido; la bolsa no es opaca ni está cerrada; no añadir marca, moho, escarcha intensa o colores verdes; no omitir la instrucción posterior a la apertura.",
+    "notas": "La relación entre una caducidad todavía futura y la instrucción de consumir en tres días tras abrir es el rasgo narrativo principal; el texto exacto puede requerir composición posterior."
   }
 }
