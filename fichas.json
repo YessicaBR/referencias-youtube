@@ -1,14 +1,14 @@
 {
-  "balasto_ferroviario": {
-    "nombre": "balasto ferroviario (piedra triturada para vías de tren)",
-    "color": "Mezcla natural de gris carbón, gris medio y gris claro, con motas blanquecinas, vetas discretas y algunos matices marrón grisáceo; no presenta un color perfectamente uniforme.",
-    "material": "Piedra natural triturada de apariencia sólida, densa y opaca; superficie áspera, granulada, fracturada y sin pulir, con reflejos pequeños únicamente sobre algunas caras.",
-    "forma": "Fragmentos poliédricos irregulares y asimétricos, con caras quebradas, picos y aristas marcadas; las unidades varían de tamaño y orientación y se agrupan densamente dejando huecos irregulares.",
+  "eje_motriz_elevable": {
+    "nombre": "Eje motriz elevable de camión pesado (grupo tándem)",
+    "color": "Neumáticos negros, rines gris metálico y guardabarros negros; el chasis presenta tonos gris oscuro y plateado.",
+    "material": "Neumáticos de caucho grueso y mate con dibujo profundo; rines y chasis de apariencia metálica; guardabarros rígidos de acabado negro mate.",
+    "forma": "Grupo compacto de dos ejes traseros contiguos con neumáticos dobles del mismo diámetro; un eje permanece apoyado y el otro se eleva únicamente unos centímetros dentro de su guardabarros.",
     "empaque": null,
     "texto_visible": null,
-    "escala": "Piezas de varios centímetros, estimación visual; mayores que la gravilla fina y mucho menores que una roca decorativa grande, aproximadamente comparables con una nuez o un puño pequeño según la pieza.",
-    "contexto_tipico": "Debajo, entre y alrededor de los durmientes de vías ferroviarias, en hombros laterales de balasto, zonas de mantenimiento y depósitos de agregado para ferrocarril.",
-    "errores_comunes": "No son cantos de río redondos ni guijarros lisos; no son arena o grava fina; no son rocas gigantes; no son adoquines idénticos; no son cristales, gemas, vidrio ni piedras translúcidas; no deben aparecer en colores saturados o artificiales; no deben tener superficies pulidas; no deben repetirse con la misma forma; el riel, las fijaciones y el durmiente no forman parte del producto.",
-    "notas": "La angularidad, la textura rugosa, la opacidad y la variación natural entre piezas son los rasgos visuales prioritarios. El fondo ferroviario, la iluminación y el estado limpio, mojado o contaminado pueden cambiar según el guion."
+    "escala": "Estructura de tamaño industrial integrada bajo un camión pesado; cada neumático es aproximadamente comparable en diámetro a la altura del torso de una persona adulta, como estimación visual.",
+    "contexto_tipico": "Camiones rígidos, tractocamiones y vehículos pesados que ajustan el número de ejes apoyados de acuerdo con la carga.",
+    "errores_comunes": "No es una rueda suelta ni flotante; no queda detrás del camión; no se levanta exageradamente; no debe separarse del chasis; no usa ruedas pequeñas; no debe representarse con neumáticos sencillos si la referencia muestra dobles; no deben añadirse ejes adicionales ni mecanismos desconectados.",
+    "notas": "La diferencia esencial es la pequeña separación bajo el eje elevado: la rueda conserva tamaño, alineación, guardabarros y conexión normal con el grupo tándem."
   }
 }
